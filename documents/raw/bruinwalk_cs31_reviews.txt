@@ -1,0 +1,41 @@
+Source URL: https://www.bruinwalk.com/classes/com-sci-31/
+Course: Introduction to Computer Science I
+
+Professor: Yutao He
+Overall Rating: 3.7/5
+  Easiness: 1.7/5 | Clarity: 3.9/5 | Workload: 2.6/5 | Helpfulness: 4.3/5
+Most Helpful Review: Dr. He is a good man.
+
+---
+
+Professor: Bruce Huang
+Overall Rating: 3.2/5
+  Easiness: 3.3/5 | Clarity: 2.8/5 | Workload: 3.7/5 | Helpfulness: 3.1/5
+Most Helpful Review: Winter 2022 - Love Bruce!! Super nice with grades and gave us an extra credit quiz worth 30 points. Can tell he is really passionate about computer science and tries really hard to help with all questions that come up. Something new for this quarter was that our 7th project was a open-ended design your own type project which I thought was really nice (adding on to/based on project 6). Overall a super nice professor and would definitely recommend taking CS31 with him over any other professor. Also discussions aren't mandatory but I would recommend doing the optional worksheets as they are really useful in solidifying your understanding of the concepts.
+
+---
+
+Professor: Ani Nahapetian
+Overall Rating: 2.3/5
+  Easiness: 1.7/5 | Clarity: 3.0/5 | Workload: 1.9/5 | Helpfulness: 2.3/5
+Most Helpful Review: Great professor, great class. Makes an effort to learn and remember your name, easy to ask questions to, open to suggestions and communication. Responds to emails quickly and thoroughly. Very fair. Interesting class, I definitely recommend taking it. One of the best (and most interactive) classes I've taken so far.
+
+---
+
+Professor: John Rohr
+Overall Rating: 2.3/5
+  Easiness: 1.2/5 | Clarity: 2.2/5 | Workload: 1.0/5 | Helpfulness: 2.7/5
+Most Helpful Review: lol, he's not that bad.
+
+---
+
+[could not fetch /professors/yutao-he/com-sci-31/: Invalid URL '/professors/yutao-he/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/yutao-he/com-sci-31/?]
+[could not fetch /professors/rose-yuan-he/com-sci-31/: Invalid URL '/professors/rose-yuan-he/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/rose-yuan-he/com-sci-31/?]
+[could not fetch /professors/bruce-huang/com-sci-31/: Invalid URL '/professors/bruce-huang/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/bruce-huang/com-sci-31/?]
+[could not fetch /professors/qianru-li/com-sci-31/: Invalid URL '/professors/qianru-li/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/qianru-li/com-sci-31/?]
+[could not fetch /professors/xuheng-li/com-sci-31/: Invalid URL '/professors/xuheng-li/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/xuheng-li/com-sci-31/?]
+[could not fetch /professors/ani-nahapetian/com-sci-31/: Invalid URL '/professors/ani-nahapetian/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/ani-nahapetian/com-sci-31/?]
+[could not fetch /professors/l-pouchet/com-sci-31/: Invalid URL '/professors/l-pouchet/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/l-pouchet/com-sci-31/?]
+[could not fetch /professors/vahab-pournaghshband/com-sci-31/: Invalid URL '/professors/vahab-pournaghshband/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/vahab-pournaghshband/com-sci-31/?]
+[could not fetch /professors/john-a-rohr/com-sci-31/: Invalid URL '/professors/john-a-rohr/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/john-a-rohr/com-sci-31/?]
+[could not fetch /professors/solomon-russell/com-sci-31/: Invalid URL '/professors/solomon-russell/com-sci-31/': No scheme supplied. Perhaps you meant https:///professors/solomon-russell/com-sci-31/?]

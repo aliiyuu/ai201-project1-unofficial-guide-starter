@@ -1,0 +1,41 @@
+Source URL: https://www.bruinwalk.com/classes/com-sci-32/
+Course: Introduction to Computer Science II
+
+Professor: Edwin Ambrosio
+Overall Rating: 3.8/5
+  Easiness: 2.3/5 | Clarity: 3.6/5 | Workload: 2.1/5 | Helpfulness: 4.1/5
+Most Helpful Review: Summer 2024 - way better than smallberg i was doing so well until the last project start early
+
+---
+
+Professor: Carey Nachenberg
+Overall Rating: 4.7/5
+  Easiness: 3.0/5 | Clarity: 4.7/5 | Workload: 2.5/5 | Helpfulness: 4.8/5
+Most Helpful Review: Winter 2021 - Nachenberg & Smallberg are legends. Just here to boost their ratings. Fun story: just before the last lecture, I left a message on Slido asking Carey to invite David as a guest host for once. It turned out that Carey did tell David, and we finally got to see both of them (virtually) at the same time. For me, it was probably the best moment of the whole quarter.
+
+---
+
+Professor: David Smallberg
+Overall Rating: 3.9/5
+  Easiness: 2.5/5 | Clarity: 4.0/5 | Workload: 2.3/5 | Helpfulness: 3.9/5
+Most Helpful Review: Winter 2021 - Had taken CS 31 and CS 32 virtually with Smallberg. He does not usually use slides, he sometimes writes codes in Word, and the lectures can get boring. BUT STILL, he's an absolute legend and a wonderful man. Let's boost this man's rating.
+
+---
+
+Professor: Howard Stahl
+Overall Rating: 4.5/5
+  Easiness: 4.0/5 | Clarity: 4.7/5 | Workload: 4.4/5 | Helpfulness: 4.7/5
+Most Helpful Review: Fall 2024 - Definitely easier than CS32 with Smallberg/Nachenberg. The projects (35% of our grade) are almost too easy (although the last 2 are a bit tough) and the homework (15%) is straightforward too. The exams are pretty fair (12.5% for Midterm I, 12.5% for Midterm II, and 25% for the final) and he is lenient with regrade requests. He also gives you 2 bonus points on either midterm 1 or 2 depending on if you actually go to section. His lectures can be pretty boring at times but he records them so watching them at 2X speed is recommended in addition to going to his office hours which are helpful. The TAs can be pretty dogshit, not going to lie. Mine barely spoke English and would buffer in real-time. However, Stahl's class is not super difficult and is 100% doable. You can definitely get an A in his CS32 class, which is supposedly a weeder too. I would take it again.
+
+---
+
+[could not fetch /professors/edwin-ambrosio/com-sci-32/: Invalid URL '/professors/edwin-ambrosio/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/edwin-ambrosio/com-sci-32/?]
+[could not fetch /professors/kung-hua-chang/com-sci-32/: Invalid URL '/professors/kung-hua-chang/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/kung-hua-chang/com-sci-32/?]
+[could not fetch /professors/qianru-li/com-sci-32/: Invalid URL '/professors/qianru-li/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/qianru-li/com-sci-32/?]
+[could not fetch /professors/carey-nachenberg/com-sci-32/: Invalid URL '/professors/carey-nachenberg/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/carey-nachenberg/com-sci-32/?]
+[could not fetch /professors/shardul-shailendra-parab/com-sci-32/: Invalid URL '/professors/shardul-shailendra-parab/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/shardul-shailendra-parab/com-sci-32/?]
+[could not fetch /professors/solomon-russell/com-sci-32/: Invalid URL '/professors/solomon-russell/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/solomon-russell/com-sci-32/?]
+[could not fetch /professors/parth-rakesh-shah/com-sci-32/: Invalid URL '/professors/parth-rakesh-shah/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/parth-rakesh-shah/com-sci-32/?]
+[could not fetch /professors/michael-shindler/com-sci-32/: Invalid URL '/professors/michael-shindler/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/michael-shindler/com-sci-32/?]
+[could not fetch /professors/david-a-smallberg/com-sci-32/: Invalid URL '/professors/david-a-smallberg/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/david-a-smallberg/com-sci-32/?]
+[could not fetch /professors/howard-stahl/com-sci-32/: Invalid URL '/professors/howard-stahl/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/howard-stahl/com-sci-32/?]

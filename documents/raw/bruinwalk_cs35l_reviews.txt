@@ -1,0 +1,20 @@
+Source URL: https://www.bruinwalk.com/classes/com-sci-35l/
+Course: Software Construction
+
+Professor: Paul Eggert
+Overall Rating: 2.9/5
+  Easiness: 1.7/5 | Clarity: 2.8/5 | Workload: 1.8/5 | Helpfulness: 2.9/5
+Most Helpful Review: Spring 2019 - I had a great TA (Zhaowei the GOAT), but still got absolutely assfucked by this class. Here are some tips for you so that you don't have the same shit ass experience I did: Step 1: Don't take the class Step 2: If you have to take it, get really familiar with the material from the first four assignments before week 1 so you have a crazy good advantage. Tough it out for the first 4 weeks and you'll be good in terms of managing workload. The final was a straight clap, no amount of studying could have prepared me for that bullshit. Sure, I learnt a lot, but this class is broken.
+
+---
+
+[could not fetch /professors/tanmay-chinchore/com-sci-35l/: Invalid URL '/professors/tanmay-chinchore/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/tanmay-chinchore/com-sci-35l/?]
+[could not fetch /professors/shivam-dalmia/com-sci-35l/: Invalid URL '/professors/shivam-dalmia/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/shivam-dalmia/com-sci-35l/?]
+[could not fetch /professors/tyler-davis/com-sci-35l/: Invalid URL '/professors/tyler-davis/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/tyler-davis/com-sci-35l/?]
+[could not fetch /professors/kedar-narayan-deshpande/com-sci-35l/: Invalid URL '/professors/kedar-narayan-deshpande/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/kedar-narayan-deshpande/com-sci-35l/?]
+[could not fetch /professors/rishab-ketan-doshi/com-sci-35l/: Invalid URL '/professors/rishab-ketan-doshi/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/rishab-ketan-doshi/com-sci-35l/?]
+[could not fetch /professors/paul-r-eggert/com-sci-35l/: Invalid URL '/professors/paul-r-eggert/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/paul-r-eggert/com-sci-35l/?]
+[could not fetch /professors/ruolin-fan/com-sci-35l/: Invalid URL '/professors/ruolin-fan/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/ruolin-fan/com-sci-35l/?]
+[could not fetch /professors/sharath-gopal/com-sci-35l/: Invalid URL '/professors/sharath-gopal/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/sharath-gopal/com-sci-35l/?]
+[could not fetch /professors/joe-halabi/com-sci-35l/: Invalid URL '/professors/joe-halabi/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/joe-halabi/com-sci-35l/?]
+[could not fetch /professors/aditya-joglekar/com-sci-35l/: Invalid URL '/professors/aditya-joglekar/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/aditya-joglekar/com-sci-35l/?]

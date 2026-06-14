@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-
+Course and professor reviews would be a strong domain. Typically, the only information available about most university courses from official sources consists of course descriptions and syllabi. There is little to no info on the individual teaching styles of each professor and how accessible each individual course offering is. These insights are usually only found on student forums, where students who actually have taken certain classes discuss their experiences.
 ---
 
 ## Documents
@@ -20,16 +20,26 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Bruinwalk - CS 31 reviews snapshot | Extracted review text for workload, pace, and exam style (source: https://www.bruinwalk.com/classes/com-sci-31/) | documents/raw/bruinwalk_cs31_reviews.txt |
+| 2 | Bruinwalk - CS 32 reviews snapshot | Extracted review text for CS 32 difficulty jump and project load (source: https://www.bruinwalk.com/classes/com-sci-32/) | documents/raw/bruinwalk_cs32_reviews.txt |
+| 3 | Bruinwalk - CS 33 reviews snapshot | Extracted review text for lab intensity, quizzes, and grading strictness (source: https://www.bruinwalk.com/classes/com-sci-33/) | documents/raw/bruinwalk_cs33_reviews.txt |
+| 4 | Bruinwalk - CS 35L reviews snapshot | Extracted review text for tooling friction and weekly time commitment (source: https://www.bruinwalk.com/classes/com-sci-35l/) | documents/raw/bruinwalk_cs35l_reviews.txt |
+| 5 | Bruinwalk - professor reviews snapshot | Aggregated professor-specific comments for clarity, accessibility, and teaching style (source: Bruinwalk professor pages) | documents/raw/bruinwalk_professor_reviews.txt |
+| 6 | Bruinwalk - CS professor 1 | Individual review page for a professor teaching a popular CS course | documents/raw/bruinwalk_prof_yutao_he.txt |
+| 7 | Bruinwalk - CS professor 2 | Individual review page for a professor teaching a popular CS course | documents/raw/bruinwalk_prof_bruce_huang.txt |
+| 8 | Bruinwalk - CS professor 3 | Individual review page for a professor teaching a popular CS course | documents/raw/bruinwalk_prof_ani_nahapetian.txt |
+| 9 | Bruinwalk - CS professor 4 | Individual review page for a professor teaching a popular CS course | documents/raw/bruinwalk_prof_john_a_rohr.txt |
+| 10 | Bruinwalk - CS professor 5 | Individual review page for a professor teaching a popular CS course | documents/raw/bruinwalk_prof_edwin_ambrosio.txt |
+| 11 | Bruinwalk - CS professor 6 | Individual review page for a professor teaching a popular CS course | documents/raw/bruinwalk_prof_carey_nachenberg.txt |
+
+> Note: Reddit r/ucla sources were dropped — Reddit now returns HTTP 403 to
+> unauthenticated scrapers (even the `.json` API) and requires OAuth or a real
+> browser session. The UCLA registrar catalog pages and the grades.natecation
+> grade-distribution explorer were also dropped: both are JS-rendered, so a plain
+> `requests` scrape only captured a title stub or a "Loading ..." placeholder.
+> They were replaced with individual Bruinwalk review pages for professors who
+> teach the most popular CS courses (the CS 31/32/33/35L intro series). Professors
+> with no written reviews are skipped automatically.
 
 ---
 

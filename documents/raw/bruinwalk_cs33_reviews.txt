@@ -1,0 +1,62 @@
+Source URL: https://www.bruinwalk.com/classes/com-sci-33/
+Course: Introduction to Computer Organization
+
+Professor: Sandra Batista
+Overall Rating: 4.5/5
+  Easiness: 4.2/5 | Clarity: 4.8/5 | Workload: 4.5/5 | Helpfulness: 4.8/5
+Most Helpful Review: Winter 2026 - I LOVE THIS PROFESSOR!!! My fav professor!! Guys choose this professor!!!! As long as you put effort on this class, you will GET AN A!! (CS31)
+
+---
+
+Professor: Paul Eggert
+Overall Rating: 3.1/5
+  Easiness: 1.4/5 | Clarity: 2.6/5 | Workload: 1.7/5 | Helpfulness: 2.9/5
+Most Helpful Review: Spring 2017 - Leave now!! Wrote with blood and tear. Unless you feel like you are smarter than 99% of your classmates.
+
+---
+
+Professor: Parvaneh Ghaforyfard
+Overall Rating: 2.6/5
+  Easiness: 2.2/5 | Clarity: 2.0/5 | Workload: 2.3/5 | Helpfulness: 2.1/5
+Most Helpful Review: Summer 2020 - Professor Ghaforyfard's lectures are quite underwhelming. In addition to the dry nature of the CS 33 material, the professor is not very enthusiastic at explaining concepts, making the lectures more boring. The labs were fun and engaging, but the exams were long and difficult. Also, the professor did not give a clear breakdown of the grading cutoffs and did not seem to have curved the class. Overall, I would not take this class again.
+
+---
+
+Professor: Ani Nahapetian
+Overall Rating: 2.6/5
+  Easiness: 1.6/5 | Clarity: 3.0/5 | Workload: 1.6/5 | Helpfulness: 2.2/5
+Most Helpful Review: 蛮给力，你要是把那5分给我就更给力了... 不过说实在的，这门课我还是自己看书多
+
+---
+
+Professor: Anthony Nowatzki
+Overall Rating: 4.4/5
+  Easiness: 2.7/5 | Clarity: 4.1/5 | Workload: 3.2/5 | Helpfulness: 4.6/5
+Most Helpful Review: Fall 2019 - CS33 is a pretty hard class but Professor Nowatzki is an amazing professor. Content/Lectures: The content of this class is very different from CS31 and CS32 (which is really a continuation of CS31) but I do think that I did learn some valuable things from this class. This class is essentially about dissecting the layer between software and hardware and connects the commands you type with the keyboard to what is actually happening inside a computer (somewhat). Professor Nowatzki is really passionate about this class because the topic is relevant to his research. As a result, he is extremely knowledgeable. He uses slides during lectures, which he will put up. To be honest, I found the class to be a bit fast-paced, as a lot of material requires further thinking and trying to understand why things work they way they do. It is HIGHLY recommended to read the textbook before class (which I didnt do, but I did find the textbook helpful for when I was looking at the slides on my own but couldnt understand some concepts), so that you will have an easier time following along in class. It is really easy to be lost during lecture, but I would highly highly recommend staying engaged (once again, by reading textbook beforehand, even skimming helps) and asking questions if you have any. For my quarter, lectures were mandatory for participation and the professor enforced it by having "pop quizzes" randomly, which is an online poll that you have to fill out during lecture. There were 3 in my class. Discussions/Participation: I personally didnt find discussions really helpful, but it involved the TA going over again the content from the past week and then the LAs going over a worksheet. This quarter, discussion was made mandatory and enforced with an online poll every section. However, in past quarters, discussion was not mandatory and there was homework that was checked for completeness instead. I'm not sure if this will change for future quarters Projects/Labs: The projects are actually really really manageable, in my opinion. The first one, data lab, took a lot of thinking and a lightbulb going off in my head before I figured it out. The bomb lab and attack/buffer lab I actually found to be really fun. The malloc lab was infamously hard for having bugs and seg faults, but during my quarter, there was a much easier solution and, as a result, many people (including me) were able to complete it without that much difficulty. I'm not sure if the test cases will be changed, because that simpler solution is very dependent on the test cases given and it might not work as well for some test cases. After the malloc lab, the last one, thread lab, is a breeze. Exams: One thing I really like about Professor Nowatzki is that he has past exams and full solutions that he provides as practice. However, those dont cover all the types of the problems and concepts that may be covered for your actual exam. Not that he will ask questions about things you've never learned or hes never talked about, but more like, just because you see bomb lab questions on two past exams doesnt mean you should expect a bomb lab question to appear on your exam. However, his exams are pretty doable and fair (in retrospect). Piazza: Both Professor Nowatzki and the TAs are very active on piazza and will answer questions very quickly. Extra Credit: Professor Nowatzki gives extra credit on almost every lab and on both midterm and final exam! ALSO, THIS IS KIND OF IRRELEVANT TO THE COURSE, BUT PROFESSOR NOWATZKI IS AN AWESOME PERSON. HE IS FUNNY AND I HONESTLY LOVE READING HIS REPLIES ON PIAZZA. Overall, would recommend.
+
+---
+
+Professor: Glenn Reinman
+Overall Rating: 3.8/5
+  Easiness: 2.8/5 | Clarity: 3.6/5 | Workload: 3.3/5 | Helpfulness: 3.8/5
+Most Helpful Review: Spring 2022 - Glenn Reinman. I was initially debating doing 33 this quarter, but everybody and their mother told me to take the course with Reinman. I scoured through Bruinwalk reviews, and I was super sure about my decision...well, till I wasn't. My experience with this class (and most peers in Spring 2022) was extremely different from past years, at least going off Bruinwalk: Class: Reinman follows flipped lecture, where he gives about ~2 hours of prerecorded content a week and follows up on the content/takes Q&A during the allotted lecture time. These pre-lecture videos are practically just slides with an audio tape, and they're incredibly content-heavy. 5 minutes feel like 20, and I personally really disliked - for the most part, there was no explanation and it was just him reading off the slides. If I had an hour to live, I'd spend them watching these because they felt like eternities in the passing. The slides aren't like Carey's, either, which you could self-study from. In class, however, he does a fairly good deal going over the questions that students asked, and I think he mostly answered all questions directed at him. I'm personally not a fan of 2 hour lectures, but that's certainly not on Reinman. The class is, in my opinion, a terrible adaption of CMU's CS 213, and shortened to fit in the quarter system. But it really shouldn't. 1. Primary Labs (Data, Bomb, Attack, Parallel): 32% (8% each) + Warmup Lab (3%) = 35% The labs were most likely my favorite bit of the class. The first three labs are standard CS:APP content, whereas the parallel lab is unique to CS 33. I'd wager the data lab was the hardest by far, but the bomb and attack labs were the most fun. The parallel lab was mostly a joke (I think the TA made it simpler?) and most people I know got it done with in 2 hours, tops. 2. Homework: 5% and Discussion Sections: 10% Both based on completion. The homework material was fairly represented on the tests, so I'd recommend doing them yourself. The discussion sections being mandatory high-key sucked, but the LA worksheets we covered were probably the most clutch thing to happen to this course. They go over practically all the kinds of problems, and our batch created a master doc with solutions, which really helped understand a bunch of concepts. 11/10 for the LAs. Try enrolling in Salekh's section if possible, he's probably the best teacher this course can have. 3. Midterm: 20% I have no idea what on god's green earth happened here. Reinman seems overly obsessed with academic integrity, so he made six different versions of the exam, and gave everyone only 40 minutes to attempt them. It was awful, it was abysmal, and the class average was 49 ("lowest in his 20+ years @ UCLA") Regrades haven't been considered and we've already taken the final. He's mentioned that he'll lower the weight of the midterm based on final performance and he'll be curving, but we'll have to wait and see how that pans out. 4. Final: 30% Reinman probably realized he screwed up during the midterm, so the final was a much better level, props to him for that. I'd say the expected class average is going to be around 65 - which doesn't sound excellent - but after that midterm, I'm going to take this with my arms wide open and all my heart. Reinman just seemed strangely convinced that people were cheating throughout the course. If you did poorly, he'd explain how we should know everything (this problem was on the hw, this problem was done in class, etc.), but if you did well - like the class did on the bomb lab- he found it sus that everyone got near-full scores on the lab. I found this extremely silly, because he compared a 40 minute clusterfuck of an examination to a good lab where we could consult TAs, and spend two weeks working on it. In terms of workload, I'd wager the class peaks in workload around the bomb lab/midterm, and strongly plateaus post that. Weeks 7 through 10 are super easy in terms of content, labs, homeworks, and you can easily cruise and focus on other classes during that time. The man nearly bombed my GPA, attacked my integrity, but with all the data I have: I'll probably end up with an A-. I can't think of any parallel puns atm, but idk. I surely didn't enjoy CS 33 with Reinman. Edit: Insanely nonsensical grading scheme too. Only gave out 35% A+/A/A-s this quarter, so don't raise your hopes off past grading distributions.
+
+---
+
+Professor: John Rohr
+Overall Rating: 1.7/5
+  Easiness: 1.1/5 | Clarity: 2.0/5 | Workload: 1.0/5 | Helpfulness: 2.4/5
+Most Helpful Review: Due to the sudden influx of "not that bad" ratings, let's not forgot that's "he's not good at all," either. His project organization is terrible. His lectures are mediocre. Rohr seems like a nice guy though.
+
+---
+
+[could not fetch /professors/sandra-batista/com-sci-33/: Invalid URL '/professors/sandra-batista/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/sandra-batista/com-sci-33/?]
+[could not fetch /professors/paul-r-eggert/com-sci-33/: Invalid URL '/professors/paul-r-eggert/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/paul-r-eggert/com-sci-33/?]
+[could not fetch /professors/parvaneh-ghaforyfard/com-sci-33/: Invalid URL '/professors/parvaneh-ghaforyfard/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/parvaneh-ghaforyfard/com-sci-33/?]
+[could not fetch /professors/jochen-haber/com-sci-33/: Invalid URL '/professors/jochen-haber/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/jochen-haber/com-sci-33/?]
+[could not fetch /professors/hyunjin-kim/com-sci-33/: Invalid URL '/professors/hyunjin-kim/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/hyunjin-kim/com-sci-33/?]
+[could not fetch /professors/ani-nahapetian/com-sci-33/: Invalid URL '/professors/ani-nahapetian/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/ani-nahapetian/com-sci-33/?]
+[could not fetch /professors/anthony-nowatzki/com-sci-33/: Invalid URL '/professors/anthony-nowatzki/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/anthony-nowatzki/com-sci-33/?]
+[could not fetch /professors/l-pouchet/com-sci-33/: Invalid URL '/professors/l-pouchet/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/l-pouchet/com-sci-33/?]
+[could not fetch /professors/glenn-reinman/com-sci-33/: Invalid URL '/professors/glenn-reinman/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/glenn-reinman/com-sci-33/?]
+[could not fetch /professors/john-a-rohr/com-sci-33/: Invalid URL '/professors/john-a-rohr/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/john-a-rohr/com-sci-33/?]
