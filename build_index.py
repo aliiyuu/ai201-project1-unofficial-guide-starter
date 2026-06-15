@@ -77,6 +77,22 @@ def build_index() -> chromadb.Collection:
     return collection
 
 
+def open_or_build_collection() -> chromadb.Collection:
+    """Return the persisted Chroma collection, building it if it doesn't exist.
+
+    Lets query.py / app.py reuse the saved index instead of re-embedding every
+    time. If the collection is missing (first run), we build it once.
+    """
+    client = chromadb.PersistentClient(path=DB_DIR)
+    embed_fn = embedding_functions.SentenceTransformerEmbeddingFunction(
+        model_name=EMBED_MODEL
+    )
+    if COLLECTION_NAME in [c.name for c in client.list_collections()]:
+        return client.get_collection(name=COLLECTION_NAME, embedding_function=embed_fn)
+    # Not built yet — build it now.
+    return build_index()
+
+
 def retrieve(collection: chromadb.Collection, query: str, k: int = TOP_K):
     """Return the top-k chunks most relevant to `query`."""
     results = collection.query(query_texts=[query], n_results=k)
