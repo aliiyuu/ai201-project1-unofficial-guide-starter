@@ -18,6 +18,7 @@ import re
 import sys
 import requests
 from pathlib import Path
+from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 OUTPUT_DIR = Path("documents/raw")
@@ -121,7 +122,9 @@ def scrape_bruinwalk_class(url: str) -> str:
         href = a.get("href", "")
         if href and href not in seen_urls:
             seen_urls.add(href)
-            prof_urls.append(href)
+            # Bruinwalk uses root-relative hrefs (e.g. /professors/slug/course/);
+            # resolve them against the page URL so requests gets an absolute URL.
+            prof_urls.append(urljoin(url, href))
 
     for prof_url in prof_urls:
         try:

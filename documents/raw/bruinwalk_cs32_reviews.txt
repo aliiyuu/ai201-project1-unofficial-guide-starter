@@ -29,13 +29,62 @@ Most Helpful Review: Fall 2024 - Definitely easier than CS32 with Smallberg/Nach
 
 ---
 
-[could not fetch /professors/edwin-ambrosio/com-sci-32/: Invalid URL '/professors/edwin-ambrosio/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/edwin-ambrosio/com-sci-32/?]
-[could not fetch /professors/kung-hua-chang/com-sci-32/: Invalid URL '/professors/kung-hua-chang/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/kung-hua-chang/com-sci-32/?]
-[could not fetch /professors/qianru-li/com-sci-32/: Invalid URL '/professors/qianru-li/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/qianru-li/com-sci-32/?]
-[could not fetch /professors/carey-nachenberg/com-sci-32/: Invalid URL '/professors/carey-nachenberg/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/carey-nachenberg/com-sci-32/?]
-[could not fetch /professors/shardul-shailendra-parab/com-sci-32/: Invalid URL '/professors/shardul-shailendra-parab/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/shardul-shailendra-parab/com-sci-32/?]
-[could not fetch /professors/solomon-russell/com-sci-32/: Invalid URL '/professors/solomon-russell/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/solomon-russell/com-sci-32/?]
-[could not fetch /professors/parth-rakesh-shah/com-sci-32/: Invalid URL '/professors/parth-rakesh-shah/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/parth-rakesh-shah/com-sci-32/?]
-[could not fetch /professors/michael-shindler/com-sci-32/: Invalid URL '/professors/michael-shindler/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/michael-shindler/com-sci-32/?]
-[could not fetch /professors/david-a-smallberg/com-sci-32/: Invalid URL '/professors/david-a-smallberg/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/david-a-smallberg/com-sci-32/?]
-[could not fetch /professors/howard-stahl/com-sci-32/: Invalid URL '/professors/howard-stahl/com-sci-32/': No scheme supplied. Perhaps you meant https:///professors/howard-stahl/com-sci-32/?]
+
+=== https://www.bruinwalk.com/professors/edwin-ambrosio/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/edwin-ambrosio/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/kung-hua-chang/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/kung-hua-chang/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/qianru-li/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/qianru-li/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/carey-nachenberg/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/carey-nachenberg/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/shardul-shailendra-parab/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/shardul-shailendra-parab/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/solomon-russell/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/solomon-russell/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/parth-rakesh-shah/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/parth-rakesh-shah/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/michael-shindler/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/michael-shindler/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/david-a-smallberg/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/david-a-smallberg/com-sci-32/
+Course: Introduction to Computer Science II
+
+
+=== https://www.bruinwalk.com/professors/howard-stahl/com-sci-32/ ===
+
+Source URL: https://www.bruinwalk.com/professors/howard-stahl/com-sci-32/
+Course: Introduction to Computer Science II

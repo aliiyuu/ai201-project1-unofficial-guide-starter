@@ -8,13 +8,62 @@ Most Helpful Review: Spring 2019 - I had a great TA (Zhaowei the GOAT), but stil
 
 ---
 
-[could not fetch /professors/tanmay-chinchore/com-sci-35l/: Invalid URL '/professors/tanmay-chinchore/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/tanmay-chinchore/com-sci-35l/?]
-[could not fetch /professors/shivam-dalmia/com-sci-35l/: Invalid URL '/professors/shivam-dalmia/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/shivam-dalmia/com-sci-35l/?]
-[could not fetch /professors/tyler-davis/com-sci-35l/: Invalid URL '/professors/tyler-davis/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/tyler-davis/com-sci-35l/?]
-[could not fetch /professors/kedar-narayan-deshpande/com-sci-35l/: Invalid URL '/professors/kedar-narayan-deshpande/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/kedar-narayan-deshpande/com-sci-35l/?]
-[could not fetch /professors/rishab-ketan-doshi/com-sci-35l/: Invalid URL '/professors/rishab-ketan-doshi/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/rishab-ketan-doshi/com-sci-35l/?]
-[could not fetch /professors/paul-r-eggert/com-sci-35l/: Invalid URL '/professors/paul-r-eggert/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/paul-r-eggert/com-sci-35l/?]
-[could not fetch /professors/ruolin-fan/com-sci-35l/: Invalid URL '/professors/ruolin-fan/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/ruolin-fan/com-sci-35l/?]
-[could not fetch /professors/sharath-gopal/com-sci-35l/: Invalid URL '/professors/sharath-gopal/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/sharath-gopal/com-sci-35l/?]
-[could not fetch /professors/joe-halabi/com-sci-35l/: Invalid URL '/professors/joe-halabi/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/joe-halabi/com-sci-35l/?]
-[could not fetch /professors/aditya-joglekar/com-sci-35l/: Invalid URL '/professors/aditya-joglekar/com-sci-35l/': No scheme supplied. Perhaps you meant https:///professors/aditya-joglekar/com-sci-35l/?]
+
+=== https://www.bruinwalk.com/professors/tanmay-chinchore/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/tanmay-chinchore/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/shivam-dalmia/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/shivam-dalmia/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/tyler-davis/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/tyler-davis/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/kedar-narayan-deshpande/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/kedar-narayan-deshpande/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/rishab-ketan-doshi/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/rishab-ketan-doshi/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/paul-r-eggert/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/paul-r-eggert/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/ruolin-fan/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/ruolin-fan/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/sharath-gopal/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/sharath-gopal/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/joe-halabi/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/joe-halabi/com-sci-35l/
+Course: Software Construction
+
+
+=== https://www.bruinwalk.com/professors/aditya-joglekar/com-sci-35l/ ===
+
+Source URL: https://www.bruinwalk.com/professors/aditya-joglekar/com-sci-35l/
+Course: Software Construction

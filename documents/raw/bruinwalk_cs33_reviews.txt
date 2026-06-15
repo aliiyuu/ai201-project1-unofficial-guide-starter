@@ -50,13 +50,62 @@ Most Helpful Review: Due to the sudden influx of "not that bad" ratings, let's n
 
 ---
 
-[could not fetch /professors/sandra-batista/com-sci-33/: Invalid URL '/professors/sandra-batista/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/sandra-batista/com-sci-33/?]
-[could not fetch /professors/paul-r-eggert/com-sci-33/: Invalid URL '/professors/paul-r-eggert/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/paul-r-eggert/com-sci-33/?]
-[could not fetch /professors/parvaneh-ghaforyfard/com-sci-33/: Invalid URL '/professors/parvaneh-ghaforyfard/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/parvaneh-ghaforyfard/com-sci-33/?]
-[could not fetch /professors/jochen-haber/com-sci-33/: Invalid URL '/professors/jochen-haber/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/jochen-haber/com-sci-33/?]
-[could not fetch /professors/hyunjin-kim/com-sci-33/: Invalid URL '/professors/hyunjin-kim/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/hyunjin-kim/com-sci-33/?]
-[could not fetch /professors/ani-nahapetian/com-sci-33/: Invalid URL '/professors/ani-nahapetian/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/ani-nahapetian/com-sci-33/?]
-[could not fetch /professors/anthony-nowatzki/com-sci-33/: Invalid URL '/professors/anthony-nowatzki/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/anthony-nowatzki/com-sci-33/?]
-[could not fetch /professors/l-pouchet/com-sci-33/: Invalid URL '/professors/l-pouchet/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/l-pouchet/com-sci-33/?]
-[could not fetch /professors/glenn-reinman/com-sci-33/: Invalid URL '/professors/glenn-reinman/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/glenn-reinman/com-sci-33/?]
-[could not fetch /professors/john-a-rohr/com-sci-33/: Invalid URL '/professors/john-a-rohr/com-sci-33/': No scheme supplied. Perhaps you meant https:///professors/john-a-rohr/com-sci-33/?]
+
+=== https://www.bruinwalk.com/professors/sandra-batista/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/sandra-batista/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/paul-r-eggert/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/paul-r-eggert/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/parvaneh-ghaforyfard/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/parvaneh-ghaforyfard/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/jochen-haber/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/jochen-haber/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/hyunjin-kim/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/hyunjin-kim/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/ani-nahapetian/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/ani-nahapetian/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/anthony-nowatzki/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/anthony-nowatzki/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/l-pouchet/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/l-pouchet/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/glenn-reinman/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/glenn-reinman/com-sci-33/
+Course: Introduction to Computer Organization
+
+
+=== https://www.bruinwalk.com/professors/john-a-rohr/com-sci-33/ ===
+
+Source URL: https://www.bruinwalk.com/professors/john-a-rohr/com-sci-33/
+Course: Introduction to Computer Organization
