@@ -9,9 +9,11 @@
 
 ## Demo
 
-A screen recording of the Gradio interface answering grounded questions and refusing an out-of-corpus question: [demo.mp4](demo.mp4)
+A screen recording of the Gradio interface answering grounded questions and refusing an out-of-corpus question:
 
-> On GitHub the link opens an inline video player. To run it locally: `source .venv/bin/activate && python app.py`, then open http://localhost:7860.
+https://github.com/aliiyuu/ai201-project1-unofficial-guide-starter/raw/main/demo.mp4
+
+> If the player above doesn't load, the video is also linked here: [demo.mp4](demo.mp4). To run it locally: `source .venv/bin/activate && python app.py`, then open http://localhost:7860.
 
 ---
 
