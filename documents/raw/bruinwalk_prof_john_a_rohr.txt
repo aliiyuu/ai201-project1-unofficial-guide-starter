@@ -1,14 +1,14 @@
 Source URL: https://www.bruinwalk.com/professors/john-a-rohr/
-Course: John Rohr
+Professor: John Rohr
 
-Professor: Introduction to Computer Science I
+Course: Introduction to Computer Science I
 Overall Rating: 2.3/5
   Easiness: 1.2/5 | Clarity: 2.2/5 | Workload: 1.0/5 | Helpfulness: 2.7/5
 Most Helpful Review: lol, he's not that bad.
 
 ---
 
-Professor: Introduction to Computer Organization
+Course: Introduction to Computer Organization
 Overall Rating: 1.7/5
   Easiness: 1.1/5 | Clarity: 2.0/5 | Workload: 1.0/5 | Helpfulness: 2.4/5
 Most Helpful Review: Due to the sudden influx of "not that bad" ratings, let's not forgot that's "he's not good at all," either. His project organization is terrible. His lectures are mediocre. Rohr seems like a nice guy though.

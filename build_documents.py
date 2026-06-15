@@ -61,19 +61,33 @@ def _get_soup(url: str) -> BeautifulSoup:
     return BeautifulSoup(r.text, "html.parser")
 
 
-def _parse_cards(soup: BeautifulSoup, source_url: str) -> list[str]:
-    """Extract professor review blocks from a Bruinwalk aggregate-card page."""
+def _parse_cards(soup: BeautifulSoup, source_url: str, page_type: str = "class") -> list[str]:
+    """Extract review blocks from a Bruinwalk aggregate-card page.
+
+    Bruinwalk reuses the same card layout for two kinds of pages:
+      - class pages:     the page header h2 is the COURSE, each card is a PROFESSOR
+      - professor pages: the page header h2 is the PROFESSOR, each card is a COURSE
+    page_type ('class' or 'professor') tells us which label goes where so the
+    fields aren't swapped.
+    """
     h2 = soup.select_one(".aggregate-header h2")
-    course_title = h2.get_text(strip=True) if h2 else ""
+    header_value = h2.get_text(strip=True) if h2 else ""
 
     lines = [f"Source URL: {source_url}"]
-    if course_title:
-        lines.append(f"Course: {course_title}")
+    if header_value:
+        # On a professor page the header is the professor's name; on a class
+        # page it's the course title.
+        header_label = "Professor" if page_type == "professor" else "Course"
+        lines.append(f"{header_label}: {header_value}")
     lines.append("")
+
+    # Within each card, the linked heading is the OTHER entity: a professor name
+    # on class pages, a course title on professor pages.
+    card_label = "Course" if page_type == "professor" else "Professor"
 
     for card in soup.select(".aggregate-card"):
         name_tag = card.select_one(".card-heading h2 a")
-        prof_name = name_tag.get_text(strip=True) if name_tag else "Unknown"
+        card_name = name_tag.get_text(strip=True) if name_tag else "Unknown"
 
         overall_tag = card.select_one(".overall-rating-badge")
         overall = overall_tag.get_text(strip=True) if overall_tag else "N/A"
@@ -97,7 +111,7 @@ def _parse_cards(soup: BeautifulSoup, source_url: str) -> list[str]:
         if review_text in ("No reviews have been written yet.", ""):
             continue
 
-        lines.append(f"Professor: {prof_name}")
+        lines.append(f"{card_label}: {card_name}")
         lines.append(f"Overall Rating: {overall}/5")
         if rating_pairs:
             lines.append("  " + " | ".join(rating_pairs))
@@ -158,7 +172,7 @@ def scrape_top_professors(course_urls: list[str], count: int) -> list[tuple[str,
             break
         prof_url = f"https://www.bruinwalk.com/professors/{slug}/"
         prof_soup = _get_soup(prof_url)
-        text = "\n".join(_parse_cards(prof_soup, prof_url))
+        text = "\n".join(_parse_cards(prof_soup, prof_url, page_type="professor"))
         # Skip professors with no written reviews — _parse_cards only emits a
         # "Most Helpful Review:" line when a card has actual review text.
         if "Most Helpful Review:" not in text:

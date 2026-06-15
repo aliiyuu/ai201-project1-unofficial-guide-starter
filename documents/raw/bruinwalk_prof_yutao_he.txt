@@ -1,14 +1,14 @@
 Source URL: https://www.bruinwalk.com/professors/yutao-he/
-Course: Yutao He
+Professor: Yutao He
 
-Professor: Introduction to Computer Science I
+Course: Introduction to Computer Science I
 Overall Rating: 3.7/5
   Easiness: 1.7/5 | Clarity: 3.9/5 | Workload: 2.6/5 | Helpfulness: 4.3/5
 Most Helpful Review: Dr. He is a good man.
 
 ---
 
-Professor: Logic Design of Digital Systems
+Course: Logic Design of Digital Systems
 Overall Rating: 4.0/5
   Easiness: 2.8/5 | Clarity: 3.7/5 | Workload: 2.6/5 | Helpfulness: 4.0/5
 Most Helpful Review: I had Professor He for EE M16. I have nothing but good things to say about him. He is always funny and cheerful, and he always tells a cheesy joke halfway through class to wake us up. He does have a slight accent, but it is bearable. He will always try to cover as much as he can in his lectures. I feel that he is honestly easier than the other lecturers for this class. He had quizzes bi-weekly in discussion, and those were very fair. His midterms and final were definitely challenging but I did not feel cheated whatsoever. I would highly recommend this professor.

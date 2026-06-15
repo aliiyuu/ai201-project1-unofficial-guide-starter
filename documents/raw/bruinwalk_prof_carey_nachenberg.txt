@@ -1,14 +1,14 @@
 Source URL: https://www.bruinwalk.com/professors/carey-nachenberg/
-Course: Carey Nachenberg
+Professor: Carey Nachenberg
 
-Professor: Introduction to Computer Science II
+Course: Introduction to Computer Science II
 Overall Rating: 4.7/5
   Easiness: 3.0/5 | Clarity: 4.7/5 | Workload: 2.5/5 | Helpfulness: 4.8/5
 Most Helpful Review: Winter 2021 - Nachenberg & Smallberg are legends. Just here to boost their ratings. Fun story: just before the last lecture, I left a message on Slido asking Carey to invite David as a guest host for once. It turned out that Carey did tell David, and we finally got to see both of them (virtually) at the same time. For me, it was probably the best moment of the whole quarter.
 
 ---
 
-Professor: Programming Languages
+Course: Programming Languages
 Overall Rating: 4.2/5
   Easiness: 2.6/5 | Clarity: 4.4/5 | Workload: 2.8/5 | Helpfulness: 4.5/5
 Most Helpful Review: Fall 2023 - Sure, Carey is fun. He is an engaging professor and puts a lot of effort into his slides and making class interesting. That doesn't go unnoticed. But in all honesty - this class sucks. Never have I put such time and effort into a class for such little reward. It's brutal and there is little support. The projects take forever, the tests are extremely difficult, and class time is wasted for jokes and irrelevant stories so we were behind and had to learn a whole topic during our own time. I think Carey has a bit of an ego. Instead of telling random anecdotes about his life, why don't we learn what will be on the exam? I have never felt so defeated and stupid than I did in this course. I wish I would have taken it with Eggert (never thought I would say that!).

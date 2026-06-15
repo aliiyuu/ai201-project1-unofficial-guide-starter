@@ -1,7 +1,7 @@
 Source URL: https://www.bruinwalk.com/professors/edwin-ambrosio/
-Course: Edwin Ambrosio
+Professor: Edwin Ambrosio
 
-Professor: Introduction to Computer Science II
+Course: Introduction to Computer Science II
 Overall Rating: 3.8/5
   Easiness: 2.3/5 | Clarity: 3.6/5 | Workload: 2.1/5 | Helpfulness: 4.1/5
 Most Helpful Review: Summer 2024 - way better than smallberg i was doing so well until the last project start early
